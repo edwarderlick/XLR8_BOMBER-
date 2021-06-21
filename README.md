@@ -67,7 +67,7 @@ apt update -y && apt upgrade -y
 
 Clone the repository
 ```bash
-https://github.com/edwarderlick/XLR8_BOMBER-.git
+git clone https://github.com/edwarderlick/XLR8_BOMBER-.git
 ```
 Go to the Xlr8 directory
 ```bash
