@@ -2,7 +2,7 @@
 
 #------------------------------------------------------#
 #                   XLR8 BOMBER 2.1 !                  #
-#               Coded by Anubhav Kashyap               #
+#               Coded by Samir                         #
 #~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ #
 #      Github     :   github.com/anubhavanonymous      #
 #     Instagram  :  instagram.com/anubhavanonymous     #
